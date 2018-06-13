@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:550px;
+  width:350px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -23,8 +23,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:250px;
-  top:300px;
+  left:50px;
+  top:70px;
   width:300px;
   height:170px;
 }
@@ -36,4 +36,35 @@
   width:0px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u3_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:83px;
+  top:290px;
+  width:132px;
+  height:16px;
+}
+#u3_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  white-space:nowrap;
 }
